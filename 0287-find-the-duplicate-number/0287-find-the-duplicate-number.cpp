@@ -4,9 +4,9 @@ public:
         sort(nums.begin(), nums.end());
 
         // Iterate through the sorted array
-        for (int i = 1; i < nums.size(); i++) {
+        for (int i = 0; i < nums.size(); i++) {
             // Check if adjacent elements are equal
-            if (nums[i] == nums[i - 1]) {
+            if (nums[i] == nums[i + 1]) {
                 return nums[i]; // Found the duplicate number
             }
         }
