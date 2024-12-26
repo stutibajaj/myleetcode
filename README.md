@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/stutibajaj/sql50/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/stutibajaj/sql50/tree/master/0442-find-all-duplicates-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/stutibajaj/sql50/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
