@@ -31,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stutibajaj/sql50/tree/master/0442-find-all-duplicates-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/stutibajaj/sql50/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/stutibajaj/sql50/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
